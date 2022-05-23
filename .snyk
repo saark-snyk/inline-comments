@@ -1,4 +1,4 @@
 exclude:
   code:
-    - file.js
-    - **/*.md
+    - "file.js"
+    - "**/*.md"
