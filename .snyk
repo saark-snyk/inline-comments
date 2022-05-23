@@ -1,2 +1,4 @@
-file.js
-**/*.md
+exclude:
+  code:
+    - file.js
+    - **/*.md
